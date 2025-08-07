@@ -1,0 +1,28 @@
+{
+  "id": "6894f2cdc34fd6044c4cb06a",
+  "lessonNumber": 16,
+  "title": "Lesson Name",
+  "status": "pending",
+  "assignment": {
+    "title": "Assignment",
+    "objective": "No objective provided",
+    "expectedCapabilities": [],
+    "instructions": [],
+    "tasks": [],
+    "submissionInstructions": "Please submit your work by the deadline",
+    "checklist": [],
+    "checkForUnderstanding": []
+  },
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Lesson Name",
+      "content": "# Lesson Name\n\n## Lesson Overview\n\n**Learning objective:**\n\nTopics: \n  * TBD\n  * TBD\n  * TBD\n\n## Subsection\n\n### Subsection Video\n\n### Subsection Check for Understanding\n\n---\nThis content was written by Janet Zulu, Reid Russom, and CTD volunteers—with special thanks to the brain trust of John McGarvey, Rebecca Callari-Kaczmarczyk, Tom Arns, and Josh Sternfeld. To submit feedback, please fill out the **[CTD Curriculum Feedback Form](https://forms.gle/RZq5mav7wotFxyie6)**.\n",
+      "videoUrl": "",
+      "codeExamples": [],
+      "externalLinks": [],
+      "quizzes": [],
+      "_id": "6894f2cdc34fd6044c4cb06b"
+    }
+  ]
+}
